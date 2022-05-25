@@ -1,5 +1,2 @@
-# IOS-DEV
-
-## My social media clones
-
+# Facebook Clone
 Still under development
